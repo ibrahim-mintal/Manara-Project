@@ -7,7 +7,7 @@ This project demonstrates a scalable and highly available AWS architecture desig
 ---
 
 ## 🖐️ Project Architecture
-![Architecture Diagram](Architecture-Project-1.png)
+![Architecture Diagram](Architecture-Project-1.svg)
 
 
 ### Key Components:
